@@ -1,0 +1,42 @@
+.main_card{
+    margin-bottom: 40px;
+    width: 270px;
+    cursor: pointer;
+}  
+/* .main_card:hover{
+    zoom: 1.2;
+} */
+
+.videoCard_info{
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.video_thumbnail{
+    height: 140px;
+    width: 250px;
+}
+/* .videoCard_info > .videoCard_avatar{
+    display: block;
+     flex: 0.6;
+    margin-left: 5px;
+    margin-right: 10px; 
+} */
+
+.video_text{
+    margin-left:15px ;
+}
+.video_text> h5{
+    /* color: gray;
+    font-weight: 300; */
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.video_text > p{
+    font-size: 14px;
+    color: gray;
+}

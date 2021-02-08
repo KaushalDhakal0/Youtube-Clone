@@ -1,0 +1,27 @@
+.channel_main{
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+
+.text_container{
+    display: flex;
+    flex-direction: column;
+}
+
+.text_container > p{
+    color: #606060;
+    font-size: small !important;
+}
+
+.avatar-channel{
+    height: 120px !important;
+    width: 120px !important;
+    margin: 50px 60px ;
+}
+
+.text_container > h4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
